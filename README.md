@@ -34,12 +34,10 @@
 
 ## 📈 GitHub Stats  
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohmmad-ishaq77&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800" width="48%" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohmmad-ishaq77&theme=tokyonight" width="48%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohmmad-ishaq77&layout=compact&theme=tokyonight&cache_seconds=1800" width="48%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c51bf,100:0ea5e9&height=120&section=footer"/>
 </p>
 
 ---
