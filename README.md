@@ -42,7 +42,7 @@
 ---
 
 ## 📬 Connect With Me  
-📧 **Email:** *(add your email here)*  
+📧 **Email:** khanishaqk88@gmail.com
 🐙 **GitHub:** [**Mohmmad-ishaq77**](https://github.com/Mohmmad-ishaq77)
 
 ---
