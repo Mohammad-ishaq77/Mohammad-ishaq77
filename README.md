@@ -1,16 +1,59 @@
-## Hi there 👋
+# 🌟 Hey there! I'm **Mohmmad IshaQ Khan** 👋  
+### 🚀 Full-Stack Web Developer | 💻 Student @ GCET Kashmir | 🌱 Learning Full-Stack Dev
 
-<!--
-**Mohammad-ishaq77/Mohammad-ishaq77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me  
+- 🎓 Currently in **3rd year** at **GCET Kashmir**  
+- 🔥 Passionate **Full-Stack Developer**  
+- 📚 Learning **Full-Stack Development** and leveling up every day  
+- 😎 Love building cool projects & experimenting with new tech  
+- 🤝 Open to collaborations on web development projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Skills  
+### 🚀 *Full Stack Web Dev Power!*  
+
+**Frontend:**  
+- 🌐 HTML, CSS, JavaScript  
+- ⚛️ React.js  
+- 🎨 Tailwind CSS  
+
+**Backend:**  
+- 🟩 Node.js  
+- 🧵 Express.js  
+
+**Database & Tools:**  
+- 🗄️ MongoDB  
+- 🐙 Git & GitHub  
+- 🧪 Postman  
+- 🛠️ VS Code  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohmmad-ishaq77&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohmmad-ishaq77&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohmmad-ishaq77&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 🎯 Current Focus  
+- 🌱 Learning & mastering **Full-Stack Development**  
+- 💡 Building real-world projects  
+- 🏗 Improving problem-solving & DSA  
+- 🚀 Preparing for internships  
+
+---
+
+## 📬 Connect With Me  
+📧 **Email:** *(add your email here)*  
+🐙 **GitHub:** [**Mohmmad-ishaq77**](https://github.com/Mohmmad-ishaq77)
+
+---
+
+⭐ *Thanks for visiting my profile! Have a great day!* 😄
