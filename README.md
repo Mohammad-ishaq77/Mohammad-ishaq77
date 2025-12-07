@@ -1,4 +1,4 @@
-# 🌟 Hey there! I'm **Mohmmad IshaQ Khan** 👋  
+# 🌟 Hey there! I'm **Mohmmad Ishaq Khan** 👋  
 ### 🚀 Full-Stack Web Developer | 💻 Student @ GCET Kashmir | 🌱 Learning Full-Stack Dev
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
