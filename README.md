@@ -15,20 +15,11 @@
 ## 🛠️ Tech Stack & Skills  
 ### 🚀 *Full Stack Web Dev Power!*  
 
-**Frontend:**  
-- 🌐 HTML, CSS, JavaScript  
-- ⚛️ React.js  
-- 🎨 Tailwind CSS  
+## 🛠️ Tech Stack & Skills  
 
-**Backend:**  
-- 🟩 Node.js  
-- 🧵 Express.js  
-
-**Database & Tools:**  
-- 🗄️ MongoDB  
-- 🐙 Git & GitHub  
-- 🧪 Postman  
-- 🛠️ VS Code  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,postman,vscode" />
+</p>
 
 ---
 
