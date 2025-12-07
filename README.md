@@ -35,11 +35,11 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohmmad-ishaq77&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohmmad-ishaq77&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800" width="48%" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohmmad-ishaq77&theme=tokyonight" width="48%" />
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mohmmad-ishaq77&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohmmad-ishaq77&layout=compact&theme=tokyonight&cache_seconds=1800" width="48%" />
 </p>
 
 ---
